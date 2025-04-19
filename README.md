@@ -41,6 +41,12 @@ sistema-arquitecto/
 ```
 ---
 
+## 📌 Estado
+
+✅ Proyecto finalizado y funcional
+
+---
+
 📦 Requisitos
 PHP 8+
 
