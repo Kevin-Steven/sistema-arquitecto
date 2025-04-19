@@ -47,12 +47,18 @@ sistema-arquitecto/
 
 ---
 
-📦 Requisitos
-PHP 8+
+## 📦 Requisitos
 
-MySQL o MariaDB
+| Requisito         | Descripción                                 |
+|-------------------|---------------------------------------------|
+| ![PHP](https://img.shields.io/badge/PHP-8+-777bb4?logo=php&logoColor=white)        | Lenguaje del servidor                  |
+| ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white) | Sistema de gestión de base de datos    |
+| ![FPDF](https://img.shields.io/badge/FPDF-PDF%20Generator-orange) | Generación de documentos en PDF        |
+| ![GD](https://img.shields.io/badge/GD%20Library-Habilitado-success) | Para manipulación de imágenes en PDFs |
+| ![XAMPP](https://img.shields.io/badge/XAMPP-Servidor%20Local-orange) | Entorno de desarrollo recomendado       |
 
-Servidor local (XAMPP, Laragon, etc.)
+
+---
 
 🧑‍💻 Autor
 Kevin Steven – @Kevin-Steven
